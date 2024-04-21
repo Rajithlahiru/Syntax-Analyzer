@@ -1,10 +1,10 @@
 
 ## Summary of Commands
 
-```markdown
+
 ### Summary of Commands
 
-```bash
+
 # Open text editor to write syntax analyzer code
 vim syntax_analyzer.c
 
